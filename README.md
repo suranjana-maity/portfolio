@@ -24,7 +24,7 @@
 
 ## 🌐 Live Demo
 
-Check out the live demo of the portfolio website [here](https://suranjana-maity.rf.gd/).
+Check out the live demo of the portfolio website [here](http://suranjana-maity.rf.gd/).
 
 <br>
 
